@@ -3,4 +3,5 @@ Zach Cook zaco6003
 Oscar Rhoades OscarRhoades
 Kash Challapalli KC-ai
 Ian Draves iandraves
-this is the edited readme
+This should create a merge conflict extra words to make sure
+I'm keeping this here to mess it up for sure
