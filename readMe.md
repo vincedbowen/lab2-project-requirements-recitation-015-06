@@ -1,4 +1,5 @@
 Project Members:
+vincent Bowen
 Vincent Bowen vincedbowen
 Zach Cook zaco6003
 Oscar Rhoades OscarRhoades
