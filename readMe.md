@@ -3,7 +3,9 @@ Ian Draves
 Vincent Bowen vincedbowen
 Zach Cook zaco6003
 Oscar Rhoades OscarRhoades
-Kash Challapalli KC-ai
 Ian Draves iandraves
-This should create a merge conflict extra words to make sure
-I'm keeping this here to mess it up for sure
+this is the edited readme
+
+Our project is to learn git along with pull requests and more
+right now, I'm learning how to review pull requests
+
