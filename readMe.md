@@ -1,5 +1,5 @@
 Project Members:
-vincent Bowen
+Editing line 2 to create a merge conflict 
 Vincent Bowen vincedbowen
 Zach Cook zaco6003
 Oscar Rhoades OscarRhoades
