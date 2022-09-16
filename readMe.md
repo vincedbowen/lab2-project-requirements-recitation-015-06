@@ -1,9 +1,12 @@
 Project Team Members:
-Project team members: Zach Cook again
-Vincent Bowen vincedbowen
+
+Vincent Bowen vincedbowen this is me trying to create a merge conflict again creating conflict
+Vincent Bowen vincedbowen MERGE CONFLICT TESTING 1234 1234
+
 Zach Cook zaco6003
 Oscar Rhoades OscarRhoades
 Ian Draves iandraves
 Kash Challapalli KC-ai
-adding text here to make sure the merge conflicts
-adding text here to be sure it conflicts
+
+
+This is practice for making edits
